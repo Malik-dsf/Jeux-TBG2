@@ -8,5 +8,13 @@
 			"Name": "Text3D",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"HoloLens",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"AllDesktop"
 	]
 }
